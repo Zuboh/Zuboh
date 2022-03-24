@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello fam 👋
 
 <!--
-**Zuboh/ZUboh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zuboh/Zuboh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Lorenzo Zubani and i'm hoping to become a front end developer 🚀 soon, I'm from italy 🇮🇹. <br/>
+You can find me on [![LinkedIn][2.2]][2] or [![Twitter][1.2]][1]
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Zuboh_
+[2]: https://www.linkedin.com/in/lorenzo-zubani/
+
+ 
