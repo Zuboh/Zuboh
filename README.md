@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Lorenzo Zubani and i'm hoping to become a front end developer 🚀 soon, I'm from italy 🇮🇹. <br/>
+My name is Lorenzo and i'm hoping to become a front end developer 🚀 soon, I'm from italy 🇮🇹. <br/>
 You can find me on [![LinkedIn][2.2]][2] or [![Twitter][1.2]][1]
 
 <!-- Icons -->
