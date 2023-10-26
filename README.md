@@ -6,7 +6,7 @@ Frontend developer
 
 * 🌍  I'm based in Brescia
 * ✉️  You can contact me at [lorenzozubani1999@gmail.com](mailto:lorenzozubani1999@gmail.com)
-* 🧠  I'm learning ReactJS
+* 🧠  I'm learning Qwik
 
 ### Skills
 
